@@ -10,7 +10,7 @@ Project 5 Ecommerce Platform website consists of refactoring Project 3. Below is
 - Must include Login and Signup, demonstrating access to protected admin page and protected route 
 - Admin page only needs to be active for ‘read’ method of  CRUD
 - Be sure to create a new repo from your Project 3 Repo (eCommerce Application)
-- Refactor your eCommerce PlatformYour project must be deployed to Heroku cloud
+- Refactor your eCommerce Platform Your project must be deployed to Heroku cloud
 - Include the Link to the live site in your GitHub repo
 
 # React Application with JWT Authentication
